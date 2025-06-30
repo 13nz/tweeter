@@ -1,16 +1,27 @@
-# twitter
+# Tweeter 🐦
 
-A new Flutter project.
+Tweeter is a sleek and responsive **Twitter clone** built using **Flutter** and powered by **Appwrite** for authentication, database, and storage. It replicates core Twitter features like posting tweets, liking, following users, and viewing timelines — all in real time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 User authentication (Sign up / Sign in)
+- 📝 Post tweets with text and optional media
+- ❤️ Like and unlike tweets
+- 👥 Follow/unfollow other users
+- 🧵 View profiles and user timelines
+- 🕒 Real-time feed updates
+- 📱 Fully responsive design (mobile-first)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Tech Stack
+
+- **Flutter** – Frontend framework
+- **Dart** – Programming language
+- **Appwrite** – Backend-as-a-Service (Auth, Database, Storage)
+- **Provider** – State management (or Riverpod, Bloc, etc.)
+- **UUID** – Unique ID generation for tweets and users
+
+---
